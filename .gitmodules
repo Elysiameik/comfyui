@@ -1,0 +1,48 @@
+[submodule "custom_nodes/ComfyLiterals"]
+	path = custom_nodes/ComfyLiterals
+	url = https://github.com/M1kep/ComfyLiterals.git
+[submodule "custom_nodes/ComfyUI-Advanced-ControlNet"]
+	path = custom_nodes/ComfyUI-Advanced-ControlNet
+	url = https://github.com/Kosinkadink/ComfyUI-Advanced-ControlNet.git
+[submodule "custom_nodes/ComfyUI-AnimateDiff-Evolved"]
+	path = custom_nodes/ComfyUI-AnimateDiff-Evolved
+	url = https://github.com/Kosinkadink/ComfyUI-AnimateDiff-Evolved.git
+[submodule "custom_nodes/ComfyUI-Custom-Scripts"]
+	path = custom_nodes/ComfyUI-Custom-Scripts
+	url = https://github.com/pythongosssss/ComfyUI-Custom-Scripts.git
+[submodule "custom_nodes/ComfyUI-Impact-Pack"]
+	path = custom_nodes/ComfyUI-Impact-Pack
+	url = https://github.com/ltdrdata/ComfyUI-Impact-Pack.git
+[submodule "custom_nodes/ComfyUI-Manager"]
+	path = custom_nodes/ComfyUI-Manager
+	url = https://github.com/ltdrdata/ComfyUI-Manager.git
+[submodule "custom_nodes/ComfyUI-VideoHelperSuite"]
+	path = custom_nodes/ComfyUI-VideoHelperSuite
+	url = https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite.git
+[submodule "custom_nodes/ComfyUI-YOLO"]
+	path = custom_nodes/ComfyUI-YOLO
+	url = https://github.com/kadirnar/ComfyUI-YOLO.git
+[submodule "custom_nodes/ComfyUI_Comfyroll_CustomNodes"]
+	path = custom_nodes/ComfyUI_Comfyroll_CustomNodes
+	url = https://github.com/Suzie1/ComfyUI_Comfyroll_CustomNodes.git
+[submodule "custom_nodes/ComfyUI_Custom_Nodes_AlekPet"]
+	path = custom_nodes/ComfyUI_Custom_Nodes_AlekPet
+	url = https://github.com/AlekPet/ComfyUI_Custom_Nodes_AlekPet.git
+[submodule "custom_nodes/ComfyUI_IPAdapter_plus"]
+	path = custom_nodes/ComfyUI_IPAdapter_plus
+	url = https://github.com/cubiq/ComfyUI_IPAdapter_plus.git
+[submodule "custom_nodes/ComfyUI_VLM_nodes"]
+	path = custom_nodes/ComfyUI_VLM_nodes
+	url = https://github.com/gokayfem/ComfyUI_VLM_nodes.git
+[submodule "custom_nodes/ComfyUI_smZNodes"]
+	path = custom_nodes/ComfyUI_smZNodes
+	url = https://github.com/shiimizu/ComfyUI_smZNodes.git
+[submodule "custom_nodes/comfyui_bmad_nodes"]
+	path = custom_nodes/comfyui_bmad_nodes
+	url = https://github.com/bmad4ever/comfyui_bmad_nodes.git
+[submodule "custom_nodes/comfyui_controlnet_aux"]
+	path = custom_nodes/comfyui_controlnet_aux
+	url = https://github.com/Fannovel16/comfyui_controlnet_aux.git
+[submodule "custom_nodes/was-node-suite-comfyui"]
+	path = custom_nodes/was-node-suite-comfyui
+	url = https://github.com/WASasquatch/was-node-suite-comfyui.git
