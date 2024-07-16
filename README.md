@@ -234,3 +234,31 @@ I wanted to learn how Stable Diffusion worked in detail. I also wanted something
 ### Who is this for?
 
 This is for anyone that wants to make complex workflows with SD or that wants to learn more how SD works. The interface follows closely how SD works and the code should be much more simple to understand than other SD UIs.
+
+## 克隆仓库
+
+要克隆此仓库及其所有子模块，请使用以下命令：
+
+```
+git clone --recursive https://github.com/Elysiameik/comfyui
+```
+
+如果您已经克隆了仓库，但没有子模块，请运行：
+
+```
+git submodule update --init --recursive
+```
+
+## 克隆仓库
+
+要克隆此仓库及其所有子模块，请使用以下命令：
+
+```
+git clone --recursive https://github.com/Elysiameik/comfyui
+```
+
+如果您已经克隆了仓库，但没有子模块，请运行：
+
+```
+git submodule update --init --recursive
+```

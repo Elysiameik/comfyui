@@ -19,9 +19,6 @@
 [submodule "custom_nodes/ComfyUI-VideoHelperSuite"]
 	path = custom_nodes/ComfyUI-VideoHelperSuite
 	url = https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite.git
-[submodule "custom_nodes/ComfyUI-YOLO"]
-	path = custom_nodes/ComfyUI-YOLO
-	url = https://github.com/kadirnar/ComfyUI-YOLO.git
 [submodule "custom_nodes/ComfyUI_Comfyroll_CustomNodes"]
 	path = custom_nodes/ComfyUI_Comfyroll_CustomNodes
 	url = https://github.com/Suzie1/ComfyUI_Comfyroll_CustomNodes.git
